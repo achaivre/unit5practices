@@ -21,8 +21,8 @@ Create two models that are connected to one another.
 
 ## Functions
 
-- [ ] Create Doctor function that is thoroughly tested.
-- [ ] Create Patient function that is thoroughly tested.
+- [x] Create Doctor function that is thoroughly tested.
+- [x] Create Patient function that is thoroughly tested.
 - [ ] Search for Patient(s) by Doctor, which allows you to search for any patient that is attached to specific doctor. It should return a queryset/list of patients of that doctor.
 - [ ] Search for Doctor(s) by patient, which allows you to search for any doctor that is attached to a specific patient. It should return a queryset/list of doctors of that patient.
 - [ ] Total number of patients should return the total amount of patients a specific doctor has.
