@@ -17,7 +17,7 @@ Create three models that are connected to one another.
 - [ ] last_name
 - [ ] last_visit is a date_field that shows the date of the patient's last visit.
 - [ ] prescription
-- [ ] and it should be connected to the Doctor class ins ome way with a relational field (either here or with Doctor)
+- [ ] and it should be connected to the Doctor class in some way with a relational field (either here or with Doctor)
 
 ## Functions
 
