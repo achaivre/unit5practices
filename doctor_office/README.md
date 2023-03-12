@@ -2,7 +2,7 @@
 
 You will be creating an organization system for a doctor's office.
 
-Create three models that are connected to one another.
+Create two models that are connected to one another.
 
 `Doctor` should have the following fields:
 
